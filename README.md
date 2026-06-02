@@ -6,7 +6,7 @@
 
 ✅ Completed iOS Development (Swift & SwiftUI)
 🔄 Currently learning Android Development with Kotlin
-👨🏼‍💻 Currently working on my own App Surfspirit
+🔄 Currently working on my own App Surfspirit
 
 ### 🚀 Tech Stack
 - Swift & SwiftUI
@@ -24,5 +24,5 @@
 Growing as a developer by building useful apps and continuously expanding my skills.
 
 ### 🔗 Links
-LinkedIn: https://www.linkedin.com/in/nils-adomeit-1143a43a4/
-E-Mail: srlordnelson@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nils-adomeit-1143a43a4/
+- E-Mail: srlordnelson@gmail.com

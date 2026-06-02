@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hi, I'm Nils
 
-<!--
-**Nils-ui/Nils-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###🎓 App Developer in training
 
-Here are some ideas to get you started:
+📱 Building **SurfSpirit** – an app that helps surfers close knowledge gaps and improve their understanding of surfing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ Completed iOS Development (Swift & SwiftUI)
+🔄 Currently learning Android Development with Kotlin
+👨🏼‍💻 Currently working on my own App Surfspirit
+
+### 🚀 Tech Stack
+- Swift & SwiftUI
+- Kotlin
+- Git & GitHub
+- AI-powered tools
+
+### 🌍 About Me
+- Passionate about technology
+- Love traveling and meeting new people
+- Always curious about new technologies
+- Enjoy learning by building real projects
+
+### 📈 Current Goal
+Growing as a developer by building useful apps and continuously expanding my skills.
+
+### 🔗 Links
+LinkedIn: https://www.linkedin.com/in/nils-adomeit-1143a43a4/

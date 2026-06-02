@@ -25,3 +25,4 @@ Growing as a developer by building useful apps and continuously expanding my ski
 
 ### 🔗 Links
 LinkedIn: https://www.linkedin.com/in/nils-adomeit-1143a43a4/
+E-Mail: srlordnelson@gmail.com
